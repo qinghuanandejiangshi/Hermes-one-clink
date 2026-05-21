@@ -1,0 +1,1 @@
+如遇到网络问题或下载速度慢，请手动下载hermes-agent和hermes-webui这两个压缩包项目并放在resources文件夹下，然后再次重新启动“一键启动.bat”
