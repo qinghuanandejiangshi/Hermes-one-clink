@@ -50,6 +50,9 @@ For subsequent launches:
 ```
 Right-click  后续启动.bat  → Run as Administrator
 ```
+<img width="1470" height="983" alt="image" src="https://github.com/user-attachments/assets/bfc65b41-71ae-4926-b179-5ae19b10b01c" />
+<img width="802" height="263" alt="image" src="https://github.com/user-attachments/assets/2bb040ca-f09f-4626-baae-869df73dd63a" />
+<img width="1902" height="958" alt="image" src="https://github.com/user-attachments/assets/3c347797-b0bd-44ae-8ff9-87bd21dbab7c" />
 
 ### Offline Installation
 
@@ -151,6 +154,9 @@ Hermes Agent 是一款强大的开源 AI 编程助手。官方安装需要手动
 - **持久后台服务**：WebUI 服务在 PowerShell 退出后仍持续运行
 - **断点续装**：中断后重新运行自动跳过已完成步骤
 - **国内加速**：自动使用阿里云 PyPI 镜像
+<img width="1470" height="983" alt="image" src="https://github.com/user-attachments/assets/bfc65b41-71ae-4926-b179-5ae19b10b01c" />
+<img width="802" height="263" alt="image" src="https://github.com/user-attachments/assets/2bb040ca-f09f-4626-baae-869df73dd63a" />
+<img width="1902" height="958" alt="image" src="https://github.com/user-attachments/assets/3c347797-b0bd-44ae-8ff9-87bd21dbab7c" />
 
 ### 快速开始
 
@@ -159,7 +165,11 @@ Hermes Agent 是一款强大的开源 AI 编程助手。官方安装需要手动
 2. 右键 一键启动.bat → 以管理员身份运行
 3. 在弹出窗口中填写 API Key（推荐 DeepSeek）
 4. 浏览器自动打开 http://127.0.0.1:8787
+
+为方便中国大陆用户，项目源文件中已经下载好了hermes-agent.zip和hermes-webui.zip，但由于体积限制所以无法上传，系统启动后会自动下载，如果下载速度过慢或其他原因，请手动下载对应的两个项目放置在根目录下的resources目录下，分别命名为hermes-agent.zip和hermes-webui.zip
 ```
+hermes-agent项目地址：https://github.com/NousResearch/hermes-agent;
+hermes-webui项目地址：https://github.com/nesquena/hermes-webui；
 
 后续每次使用：
 ```
